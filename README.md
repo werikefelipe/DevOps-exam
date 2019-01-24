@@ -1,9 +1,5 @@
 # Exame - Bexs DevOps
 
----
-*O objetivo deste exame é conhecer a linha de raciocínio do candidato, entender os pontos fortes e fracos tecnicamente e medir sua capacidade de antecipar/resolver problemas. Não há itens eliminatórios.*
-
----
 ## Desafio
 
 Considerando as aplicações presentes neste repositório detalhadas abaixo, precisamos de uma stack que permita a comunicação entre ambas e o acesso de desenvolvedores.
@@ -15,9 +11,13 @@ Considerando as aplicações presentes neste repositório detalhadas abaixo, pre
 ## Como entregar sua solução?
 
 1) Clone do repositório
+
 2) Realize as alterações necessárias
+
 3) Adicione e commit todos os arquivos criados/alterados (todos mesmo)
+
 4) Gere um patch conforme comando de exemplo abaixo
+
 5) Nos envie o patch através do email que entramos em contato
 
 *Para gerar o patch:*
