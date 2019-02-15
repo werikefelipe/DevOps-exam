@@ -12,7 +12,7 @@ Considerando as aplicações presentes neste repositório detalhadas abaixo, pre
 
 1) Clone do repositório
 
-2) Realize as alterações necessárias
+2) Realize as alterações necessárias para construção/automação da stack. Considere um ambiente local (máquina do desenvolvedor) ou algum provedor de cloud (AWS ou GCP).
 
 3) Adicione e commit todos os arquivos criados/alterados (todos mesmo)
 
